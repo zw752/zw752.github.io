@@ -1,5 +1,12 @@
+# OS generated files
+.DS_Store
+
+# Jekyll build directories
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+
+# Dependency directories and files
 vendor
+Gemfile.lock
