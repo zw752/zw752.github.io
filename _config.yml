@@ -21,7 +21,7 @@
 title: Zhuchen Wang
 email: zw752@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
-ORIE MEng student at Cornell interested in optimization, analytics, and impactful systems.
+  ORIE MEng student at Cornell interested in optimization, analytics, and impactful systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wangzhuchen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: zw752
