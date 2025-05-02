@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-14
-img: safe.png
+img: Project 6.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Dec 2020
+category: Social Computing
+description: >
+  We implement a Python-based social media management system supporting user registration, authentication, friendship, and article posting with source, anchor, and report relationships. Utilizing OOP (User and Article classes), data abstractions (lists, dictionaries, tuples), and Breadth-First Search, it computes article influence and identifies Key Opinion Leaders via getInfluence, getKOLs, and isKOL. The modular, scalable architecture promotes reusable, testable, and efficient code.
 ---
