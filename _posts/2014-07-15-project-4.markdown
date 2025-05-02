@@ -2,10 +2,10 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: Project 1.png
+img: Project 4.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2023
+category: Blockchain Technology
+description: >
+  Healife is a patient-centric EHR solution built on blockchain to eliminate “information islands” and ensure privacy and transparency. Patients control data access via private keys and Soulbond tokens (NFT), enabling secure data sale to research institutions under masked, GDPR-style confidentiality. Featuring Hong Kong–Mainland interconnection and Chinese/Western medicine integration, Healife uses transaction fees and data licensing to reward users and accelerate healthcare research
 ---
