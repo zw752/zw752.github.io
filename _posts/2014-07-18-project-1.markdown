@@ -8,6 +8,13 @@ project-date: April 2024
 keywords: AI and RegTech
 category: Financial Technology
 description: >
-  This project delivers an AI-powered RegTech solution designed to streamline regulatory compliance for Hong Kong’s financial sector. Leveraging unstructured data ingestion (PDFs, meeting minutes, recordings) and advanced embedding models (text-embedding-ada-002, BERT), our pipeline splits documents into “chunks,” cleanses and masks sensitive elements, then indexes them in a FAISS vector database for lightning-fast similarity search and Q&A. Through a three-step framework—Inherent Risk Assessment, Cyber Maturity Assessment, and Intelligence-led Attack Simulation—users can gauge risk levels, evaluate cybersecurity maturity across seven domains, and test defenses via simulated attacks. A customizable UI portal enables regulators, auditors, and in-house compliance teams to query natural language prompts (e.g., “Inherent Risk: Product & Technology”) and retrieve evidence-backed insights.
+  This project delivers an AI-powered RegTech solution designed to streamline regulatory compliance for Hong Kong’s financial 
+  sector. Leveraging unstructured data ingestion (PDFs, meeting minutes, recordings) and advanced embedding models (text-embedding- 
+  ada-002, BERT), our pipeline splits documents into “chunks,” cleanses and masks sensitive elements, then indexes them in a FAISS 
+  vector database for lightning-fast similarity search and Q&A. Through a three-step framework—Inherent Risk Assessment, Cyber 
+  Maturity Assessment, and Intelligence-led Attack Simulation—users can gauge risk levels, evaluate cybersecurity maturity across 
+  seven domains, and test defenses via simulated attacks. A customizable UI portal enables regulators, auditors, and in-house 
+  compliance teams to query natural language prompts (e.g., “Inherent Risk: Product & Technology”) and retrieve evidence-backed 
+  insights.
 ---
 
