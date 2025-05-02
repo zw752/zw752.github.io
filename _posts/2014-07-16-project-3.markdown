@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: Project 3.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Dec 2023
+category: Game Development
+description: >
+  Jungle Game is a digital adaptation of Dou Shou Qi (“Fighting Beast Chess”) on a 7×9 animal-themed board. Built in Java with a clear MVC structure (controller, view, model), it offers three interfaces—welcome screen, user manual, and game board—with bilingual prompts, real-time status updates, and precise error hints. The API separates Location/Board and Piece/Player classes, supported by UML and sequence diagrams for maintainable, test-driven development.
 ---
