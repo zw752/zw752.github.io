@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2023
 category: Blockchain Technology
 description: >
-  Healife is a patient-centric EHR solution built on blockchain to eliminate “information islands” and ensure privacy and transparency. Patients control data access via private keys and Soulbond tokens (NFT), enabling secure data sale to research institutions under masked, GDPR-style confidentiality. Featuring Hong Kong–Mainland interconnection and Chinese/Western medicine integration, Healife uses transaction fees and data licensing to reward users and accelerate healthcare research
+  Healife is a patient-centric EHR solution built on blockchain to eliminate “information islands” and ensure privacy and transparency. Patients control data access via private keys and Soulbond tokens (NFT), enabling secure data sale to research institutions under masked, GDPR-style confidentiality. Featuring Hong Kong–Mainland interconnection and Chinese/Western medicine integration, Healife uses transaction fees and data licensing to reward users and accelerate healthcare research.
 ---
